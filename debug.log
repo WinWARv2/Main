@@ -1,0 +1,231 @@
+[1222/202552.983:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1223/074028.407:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1223/074212.829:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1223/075910.082:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1223/080555.697:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1223/103152.166:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1224/154721.814:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1224/160237.421:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1224/173418.294:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1224/181843.493:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1224/181923.033:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1224/191616.670:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1225/085406.424:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1225/210738.764:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1226/210834.166:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1226/211402.925:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1226/231757.657:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1227/155146.434:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/editor/editor.main.js (253)
+[1227/155146.440:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/editor/editor.main.js (253)
+[1227/155400.746:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1227/155748.956:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1227/220418.119:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1227/220533.744:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1227/221036.678:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1227/221104.058:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1227/222523.035:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/editor/editor.main.js (253)
+[1227/222523.042:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/editor/editor.main.js (253)
+[1227/222531.379:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1227/222816.955:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/editor/editor.main.js (253)
+[1227/222816.955:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/editor/editor.main.js (253)
+[1227/222819.395:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1227/223252.267:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1227/223315.481:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1227/223812.501:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/editor/editor.main.js (253)
+[1227/223812.506:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/editor/editor.main.js (253)
+[1227/223825.988:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1227/224317.366:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1227/224419.381:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1227/224807.706:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1227/224953.651:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1227/225015.390:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1227/225215.112:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1227/225249.355:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1227/225254.625:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1227/231950.269:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/001018.422:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/003030.150:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/003407.399:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1228/003552.217:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/003749.754:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/004604.536:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1228/004848.999:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/104943.375:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/105335.148:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/105818.289:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/112502.651:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1228/112630.968:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/112648.921:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1228/112750.783:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/112921.578:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/113507.958:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/115056.412:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/115117.235:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1228/115133.750:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1228/115235.020:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/115300.939:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1228/115316.962:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1228/115353.141:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/115530.309:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/editor/editor.main.js (253)
+[1228/115530.309:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/editor/editor.main.js (253)
+[1228/115558.826:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1228/115613.424:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1228/191811.815:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/191842.856:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1228/192134.039:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/193102.975:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1228/193142.844:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/193152.213:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1228/193157.406:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1228/193249.293:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/193434.678:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/193634.820:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/193857.750:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/194017.574:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/194106.888:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/194236.198:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/194626.167:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/194852.199:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/203724.508:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/204127.514:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[1228/232727.414:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[1228/232811.747:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[1231/205253.520:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0105/132846.453:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/190645.609:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/190830.887:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/190848.358:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/191043.958:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/191346.767:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/191623.250:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/193609.830:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/193718.193:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/194041.572:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/194245.987:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/194522.311:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/194543.177:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/194616.843:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/194635.423:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/200428.393:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/200632.955:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/201130.306:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/201219.066:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/202028.755:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/202044.005:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/202118.311:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/202149.535:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/202301.263:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/202717.131:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/202800.514:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/203542.705:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/203608.608:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/203639.423:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/203654.523:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/203807.235:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/203815.405:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0107/204001.722:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/204401.080:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/204611.999:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/204640.864:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/204806.127:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/204841.739:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/204920.188:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0107/204927.525:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0107/204948.863:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0109/202125.761:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0109/202235.950:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0109/202312.741:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0109/202435.144:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0109/202528.612:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0109/202709.251:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0109/203018.410:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0109/203120.534:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0111/182546.144:ERROR:shader_disk_cache.cc(237)] Failed to create shader cache entry: -2
+[0112/165146.676:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0112/165223.470:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0112/165223.471:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[0112/165413.675:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0112/165413.676:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[0112/170003.963:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0112/170445.910:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0112/170533.757:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0112/170639.732:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0112/171649.993:INFO:CONSOLE(253)] "Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/Microsoft/monaco-editor#faq", source: file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/editor/editor.main.js (253)
+[0112/171649.993:INFO:CONSOLE(253)] "Failed to construct 'Worker': Script at 'file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/base/worker/workerMain.js#editorWorkerService' cannot be accessed from origin 'null'.", source: file:///C:/Users/Misty/Desktop/WinWAR%20File/WinWAR.exe/Synapse%20X%20Private%20Axon%20Source/bin/x86/Debug//Monaco/vs/editor/editor.main.js (253)
+[0112/171806.972:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0112/171809.601:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0112/171810.374:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0112/171810.687:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0112/171854.265:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0117/065526.649:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0118/150007.086:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0118/150736.714:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0118/150736.863:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0118/150958.131:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0119/133248.722:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0119/184308.239:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0119/184309.107:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0119/185020.948:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0119/185025.738:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0119/185159.409:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[0119/185417.245:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0119/185420.108:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0119/185504.746:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[0119/185830.332:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0119/185831.314:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0119/200407.096:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/075210.060:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/075210.411:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/075349.893:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/075351.538:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/075422.480:FATAL:cef_ref_counted.h(333)] Assert failed: ptr_ != 0. 
+
+[0120/081042.352:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/081042.643:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/081103.195:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0120/081323.800:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/081324.273:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/081349.722:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0120/165857.454:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/170607.286:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/170712.431:ERROR:broker_win.cc(134)] Error sending sync broker message: The pipe is being closed. (0xE8)
+[0120/171003.849:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/171003.887:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/171242.715:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/172015.671:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/172017.108:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/181036.676:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/181038.296:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/191951.988:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/191953.944:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/191955.340:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/192013.954:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/192014.602:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/192432.492:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/192436.124:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/193356.591:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0120/193356.665:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0126/082825.358:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0126/110044.884:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
+[0126/120214.063:INFO:CONSOLE(1)] "Uncaught ReferenceError: SetLanguage is not defined", source: about:blank (1)
